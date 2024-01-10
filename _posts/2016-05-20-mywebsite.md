@@ -8,6 +8,7 @@ categories: [Sample, Guides]
 - this is my website 
 - https://nikoolabbafi.pythonanywhere.com/your_app_name/index/
 - <iframe src="https://nikoolabbafi.pythonanywhere.com/your_app_name/index/" width="800" height="600"></iframe>
+[Picture](../assets/site.png)
 
 
 
