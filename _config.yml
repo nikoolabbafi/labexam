@@ -25,6 +25,7 @@ navigation: # Navigation links
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
   - {name: 'calendar', link: '/calendar'}
+  - {name: 'courses', link: '/courses'}
 
 
 tagline: >
